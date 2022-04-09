@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hello 👋,
+### My name is Abhinay Kushwaha
+#### I am an Engineering Student
 
-<!--
-**AbhinayNaman/AbhinayNaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Python / C / AJAX / XML / JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Web Development 
+- 💬 Ask me about Python 
+- ⚡ Fun fact: I Love Problem Solving 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://img.icons8.com/doodle/2x/linkedin--v2.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/NotAbhinayNaman/)  [<img src='https://img.icons8.com/doodle/2x/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/AbhinayNaman)  [<img src='https://img.icons8.com/doodle/2x/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/AbhinayNaman/)  [<img src='https://img.icons8.com/doodle/2x/twitter--v1.png' alt='twitter' height='40'>](https://twitter.com/AbhinayNaman)  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinayNaman)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhinayNaman&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AbhinayNaman)  
+
+![Profile views](https://gpvc.arturio.dev/AbhinayNaman)  
+
+## Thanks For Reading ..
