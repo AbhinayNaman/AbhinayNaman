@@ -2,7 +2,7 @@
 ### My name is Abhinay Kushwaha
 #### I am an Engineering Student
 
-Skills: Python / C / AJAX / XML / JS / HTML / CSS
+Skills: Python / C++(Basic) / C / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Web Development 
